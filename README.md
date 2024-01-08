@@ -1,5 +1,5 @@
 # Shiqi's Homepage
-- Hexo： [blog.1314.io](blog.1314.io)
+- Hexo： [blog](https://blog.1314.io/)
 - [This page's github repository](https://github.com/wsqstar/Shiqi-Homepage/)
 
 OpenSoucre Projects:
